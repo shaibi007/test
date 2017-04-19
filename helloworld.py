@@ -1,4 +1,5 @@
 def hello():
+    print('Welcome to Github')
     return 'Hello World'
 
 def main():
